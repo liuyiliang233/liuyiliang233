@@ -12,5 +12,5 @@
 - ⚡ 期望能一起学习交流，共同进步
 
 `
-const a = 7
+![Github Stats](https://github-readme-stats.vercel.app/api?username=liuyiliang233&show_icons=true&theme=dark&count_private=true)
 `
