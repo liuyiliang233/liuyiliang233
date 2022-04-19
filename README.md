@@ -10,7 +10,3 @@
 - 📫 我的邮箱是851260830@qq.com    （😂对的还是喜欢qq邮箱，习惯了...）
 - 😄 很高兴认识你们～
 - ⚡ 期望能一起学习交流，共同进步
-
-`
-![Github Stats](https://github-readme-stats.vercel.app/api?username=liuyiliang233&show_icons=true&theme=dark&count_private=true)
-`
