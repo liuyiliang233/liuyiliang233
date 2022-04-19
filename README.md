@@ -11,3 +11,9 @@
 - 😄 很高兴认识你们～
 - ⚡ 期望能一起学习交流，共同进步
 
+`
+![Github Stats](https://github-readme-stats.vercel.app/api?username=liuyiliang233&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyiliang233&theme=dark&layout=compact)
+
+`
